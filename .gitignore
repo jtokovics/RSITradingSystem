@@ -1,0 +1,19 @@
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+
+# Ignore build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Ignore secrets
+.env
+appsettings.Development.json

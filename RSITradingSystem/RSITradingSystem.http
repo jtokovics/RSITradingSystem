@@ -1,0 +1,6 @@
+@RSITradingSystem_HostAddress = http://localhost:5153
+
+GET {{RSITradingSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
